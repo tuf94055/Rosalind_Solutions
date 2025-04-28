@@ -4,7 +4,7 @@
 
 This repository contains my solutions to problems from [Rosalind](https://rosalind.info/), a platform for learning bioinformatics, algorithms, and computational biology through hands-on challenges.  
 Each problem includes a Python solution, sample input/output (where applicable), and a link to the original Rosalind problem description.
-My progress as I work through these problems can be see on my [Rosalind account page](https://rosalind.info/users/tuf94055/).
+My progress as I work through these problems can be see on my [account](https://rosalind.info/users/tuf94055/).
 
 ---
 

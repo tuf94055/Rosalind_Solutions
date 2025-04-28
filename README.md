@@ -19,18 +19,18 @@ My progress as I work through these problems can be see on my [account](https://
 ### Project Structure:
 ```
 Rosalind_Solutions/
-├── Bioinformatics_Stronghold/    # Rosalind course name
+├── Bioinformatics_Stronghold/          # Rosalind course name
 │   ├── DNA/
-│   │   ├── dna.py                # Solution script
-│   │   ├── sample_input.txt      # Sample input (optional)
-│   │   └── sample_output.txt     # Sample output (optional)
+│   │   ├── dna.py                      # Solution script
+│   │   ├── rosalind_dna.txt            # Sample input
+│   │   └── rosalind_dna_output.txt     # Sample output (optional)
 │   ├── RNA/
 │   ├── REVC/
 │   ├── FIB/
 │   ├── GC/
 │   ├── HAMM/
 │   └── IPRB/
-├── README.md                     # Project overview and links
+├── README.md                           # Project overview and links
 ```
 ---
 

@@ -18,10 +18,10 @@ My progress as I work through these problems can be see on my [account](https://
 
 ### Project Structure:
 ```
-Rosalind_Bioinformatics_Solutions/
-├── Bioinformatics_Stronghold/
+Rosalind_Solutions/
+├── Bioinformatics_Stronghold/    # Rosalind course name
 │   ├── DNA/
-│   │   ├── dna.py               # Solution script
+│   │   ├── dna.py                # Solution script
 │   │   ├── problem.md            # Problem description and link
 │   │   ├── sample_input.txt      # Sample input (optional)
 │   │   └── sample_output.txt     # Sample output (optional)
@@ -57,7 +57,7 @@ git clone https://github.com/your-username/Rosalind_Bioinformatics_Solutions.git
 ```
 
 2. Navigate to any problem folder under `Bioinformatics_Stronghold/` to view:
-   - The original problem description (`problem.md`)
+   - The original problem description (`.md`)
    - My Python solution (`.py`)
    - Example input/output (optional)
 
